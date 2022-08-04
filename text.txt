@@ -4,6 +4,8 @@ Farbpalette
 Rot
 Grün
 Blau
+Türkis
+Königsblau
 Gelb
 Magenta
 
